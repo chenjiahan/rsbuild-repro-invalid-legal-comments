@@ -1,0 +1,16 @@
+{
+  "name": "rsbuild-repro-invalid-legal-comments",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "rsbuild dev --open",
+    "build": "rsbuild build",
+    "preview": "rsbuild preview"
+  },
+  "devDependencies": {
+    "@rsbuild/core": "^0.6.6"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
